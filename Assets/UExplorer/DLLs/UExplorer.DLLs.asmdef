@@ -1,0 +1,16 @@
+{
+    "name": "UExplorer.DLLs",
+    "rootNamespace": "UExplorer",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "UnityExplorer.Standalone.Mono.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

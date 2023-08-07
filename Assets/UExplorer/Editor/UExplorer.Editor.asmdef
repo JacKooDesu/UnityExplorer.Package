@@ -1,0 +1,18 @@
+{
+    "name": "UExplorer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e20825b2a96c1643bea0441b56837f1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
