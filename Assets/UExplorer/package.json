@@ -15,5 +15,8 @@
   "author": {
     "name": "Sinai",
     "url": "https://github.com/sinai-dev"
+  },
+  "dependencies": {
+    "com.unity.nuget.mono-cecil": "1.10.1"
   }
 }
